@@ -6,8 +6,8 @@ Below is a detailed conceptual summary of each notebook, excluding code.
 
 api_request_basics.ipynb
 
-Datasource
-The public api of RemoteOk was used considering the instructions 1 second time delay was also followed ."https://remoteok.com/api"
+The project leverages the RemoteOK public API (https://remoteok.com/api) to collect job posting data. 
+A one-second delay between requests was maintained as per best practices to avoid overwhelming the server.
 
 Objective
 Demonstrates how to collect job posting data using the RemoteOK API. Unlike traditional web scraping, 
