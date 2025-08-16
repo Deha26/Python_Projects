@@ -95,6 +95,8 @@ Regression modeling setup
 Target transformation (log-scale)
 Visual EDA for numeric data
 Feature construction and reduction
+
+
 Summary
 
 Each notebook reflects a key data science task:
@@ -108,3 +110,4 @@ Data cleaning & preprocessing
 Feature engineering
 Visualization and storytelling
 Preparing datasets for machine learning models
+
