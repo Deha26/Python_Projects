@@ -2,7 +2,7 @@ Python Projects
 
 A collection of beginner-to-intermediate level Python projects focused on data analysis and machine learning. 
 This repository currently includes three Jupyter notebooks: api_request_basics.ipynb, EDA_netflix.ipynb, Classification.ipynb, and Regression.ipynb. 
-Below is a detailed conceptual summary of each notebook, excluding code.
+Below is a detailed conceptual summary of each notebook.
 
 api_request_basics.ipynb
 
