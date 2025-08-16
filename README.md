@@ -4,6 +4,8 @@ A collection of beginner-to-intermediate level Python projects focused on data a
 This repository currently includes three Jupyter notebooks: api_request_basics.ipynb, EDA_netflix.ipynb, Classification.ipynb, and Regression.ipynb. 
 Below is a detailed conceptual summary of each notebook.
 
+===================================================================================================
+
 api_request_basics.ipynb
 
 The project leverages the RemoteOK public API (https://remoteok.com/api) to collect job posting data. 
@@ -27,7 +29,7 @@ Data Wrangling & Cleaning
 Exploratory Data Analysis(EDA)
 Visualization & Insights
 
-==============================================================================================================
+===================================================================================================
 
 EDA_netflix.ipynb
 
@@ -64,7 +66,7 @@ Handling missing data
 Categorical analysis
 Visual storytelling with interactive plots
 
-==============================================================================================================
+===================================================================================================
 
 Classification.ipynb
 
@@ -96,7 +98,7 @@ Feature encoding
 Dataset preparation for multiple ML models
 Understanding classification workflows
 
-==============================================================================================================
+===================================================================================================
 
 Regression.ipynb
 
@@ -127,6 +129,7 @@ Target transformation (log-scale)
 Visual EDA for numeric data
 Feature construction and reduction
 
+===================================================================================================
 
 Summary
 
